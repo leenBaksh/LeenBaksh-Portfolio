@@ -1,7 +1,7 @@
 import "./ProImgStyles.css";
 
 import React from "react";
-import IntroImg from "../assets/face pic.jpeg";
+import IntroImg from "../assets/girlpic.jpg";
 import { Link } from "react-router-dom";
 import { TypeAnimation } from 'react-type-animation';
 
