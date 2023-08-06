@@ -63,6 +63,20 @@ const Footer = () => {
                                 }}
                             />
                         </a>
+                        <div className="whatsapp">
+                            <FaWhatsapp size={21}
+                                style={{ color: "#fff", marginRight: "2rem" }} />
+                            <div>
+                                <p>+923103871019</p>
+                            </div>
+                        </div>
+                        <div className="Gmail">
+                            <FaGmail size={21}
+                                style={{ color: "#fff", marginRight: "2rem" }} />
+                            <div>
+                                <p>wdigital085@gmail.com</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
