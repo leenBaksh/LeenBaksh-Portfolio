@@ -33,6 +33,7 @@ const Footer = () => {
                             <p>wdigital085@gmail.com</p>
                         </div>
                     </div>
+
                     <div className="Social Media">
                         <a href="https://www.facebook.com/SandalBakshi">
                             < FaFacebook
