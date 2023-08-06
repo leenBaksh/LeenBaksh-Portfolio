@@ -2,7 +2,7 @@ import "./FooterStyles.css";
 
 import React from "react";
 import { BiLogoGmail, BiPhone } from "react-icons/bi";
-import { FaFacebook, FaGithub, FaLinkedin, FaTwitter, FaWhatsapp } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 
 const Footer = () => {
     return (
@@ -19,6 +19,20 @@ const Footer = () => {
                         enim tortor at auctor urna. </p>
                 </div>
                 <div className="Right">
+                    <div className="whatsapp">
+                        <FaWhatsapp size={21}
+                            style={{ color: "#fff", marginRight: "2rem" }} />
+                        <div>
+                            <p>+923103871019</p>
+                        </div>
+                    </div>
+                    <div className="Gmail">
+                        <FaGmail size={21}
+                            style={{ color: "#fff", marginRight: "2rem" }} />
+                        <div>
+                            <p>wdigital085@gmail.com</p>
+                        </div>
+                    </div>
                     <div className="Social Media">
                         <a href="https://www.facebook.com/SandalBakshi">
                             < FaFacebook
