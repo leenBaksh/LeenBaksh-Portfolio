@@ -2,7 +2,7 @@ import "./FooterStyles.css";
 
 import React from "react";
 import { BiLogoGmail, BiPhone } from "react-icons/bi";
-import { FaFacebook, FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedin, FaWhatsapp, FaGmail } from "react-icons/fa";
 
 const Footer = () => {
     return (
@@ -62,12 +62,12 @@ const Footer = () => {
                                 }}
                             />
                         </a>
-
                     </div>
                 </div>
             </div>
         </div >
     )
 };
+
 
 export default Footer;
