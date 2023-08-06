@@ -21,7 +21,8 @@ const Navbar = () => {
     window.addEventListener("scroll", changeColor);
 
     return (
-        <div className={color ? "header header-bg" : "header"}>
+        <div className={color ? "header header-bg" : "header"
+        }>
             <Link to="/">
                 <h1>Digital World</h1>
             </Link>
@@ -47,7 +48,7 @@ const Navbar = () => {
                 )}
 
             </div>
-        </div>
+        </div >
     );
 };
 

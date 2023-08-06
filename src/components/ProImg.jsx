@@ -1,7 +1,7 @@
 import "./ProImgStyles.css";
 
 import React from "react";
-import IntroImg from "../assets/girlpic.jpg";
+import IntroImg from "../assets/red.gif";
 import { Link } from "react-router-dom";
 import { TypeAnimation } from 'react-type-animation';
 
@@ -19,7 +19,7 @@ const ProImg = () => {
                         repeat={Infinity}
                         wrapper="b"
                         sequence={[
-                            'FREELANCER',
+                            'FREELANCER ',
                             1000,
                             'WEB DEVELOPER ',
                             1000,
