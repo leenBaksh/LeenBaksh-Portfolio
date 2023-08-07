@@ -21,10 +21,6 @@ const Footer = () => {
 
 
                 <div className="Right">
-                    <div className="whatsapp">
-                        <h5><FaWhatsapp size={23} style={{ color: "#c2fbd7", marginRight: "1rem" }} /> +923103871019 </h5>
-                    </div>
-
                     <div className="Email">
                         <h5><FaMailBulk size={23} style={{ color: "#c2fbd7", marginRight: "1rem" }} /> wdigital085@gmail.com </h5>
                     </div>
