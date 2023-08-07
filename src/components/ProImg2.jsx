@@ -1,5 +1,6 @@
 import "./ProImg2Styles.css";
 
+
 import React, { Component } from "react";
 
 class ProImg2 extends Component {

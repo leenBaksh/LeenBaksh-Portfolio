@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import "./PricingsCardStyles.css";
 
 
+
 import React from "react";
 
 const PricingsCard = () => {

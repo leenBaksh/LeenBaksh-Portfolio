@@ -13,8 +13,9 @@
 }
 
 .project-card {
-    background: #1a1919;
+    background: rgb(20, 20, 20);
     padding: 1.2rem 1rem;
+    border: 1px solid #530c02;
 }
 
 .project-card img {
@@ -23,7 +24,7 @@
 
 .project-title {
     font-size: 35;
-    color: #34d7e2;
+    color: #c2fbd7;
     padding: 1rem 0;
 }
 

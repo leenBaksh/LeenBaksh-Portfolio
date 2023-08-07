@@ -1,17 +1,17 @@
 .pro-img {
-    width: 100%;
+    width: 120%;
     background-color: rgba(0, 0, 0, 0.5);
-    height: 60vh;
+    height: 70vh;
     position: relative;
 }
 
 .pro-img::before {
     content: "";
-    background: url("https://images.unsplash.com/photo-1520583457224-aee11bad5112?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80");
+    background: url("../assets/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg");
     background-size: cover;
     background-position: center top;
     height: 100%;
-    width: 100%;
+    width: 110%;
     position: absolute;
     top: 0;
     left: 0;

@@ -1,5 +1,6 @@
 import React from "react";
 
+
 import Navbar from "../components/Navbar";
 import ProImg2 from "../components/ProImg2";
 import Footer from "../components/Footer";
